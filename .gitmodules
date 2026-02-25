@@ -1,0 +1,3 @@
+[submodule "DemoBoard/Libraries/thermocline-kicad-libraries"]
+	path = DemoBoard/Libraries/thermocline-kicad-libraries
+	url = https://github.com/Team-Thermocline/thermocline-kicad-libraries.git
